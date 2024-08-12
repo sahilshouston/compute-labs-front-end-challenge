@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@rive-app/react-canvas": "^4.13.6",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "styled-components": "6.1.12",
+    "three": "0.167.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
